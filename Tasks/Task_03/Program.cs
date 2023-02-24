@@ -12,7 +12,6 @@ int z = int.Parse(Console.ReadLine() ?? "0");
 int [,,] matrix = new int [x, y, z];
 int f = 10;
 
-// Заполнение массива неповторяющимися числами
 for(int z1 = 0; z1 < matrix.GetLength(2); z1++)
 {
     for(int x1 = 0; x1 < matrix.GetLength(0); x1++)
@@ -26,7 +25,6 @@ for(int z1 = 0; z1 < matrix.GetLength(2); z1++)
 
 }
 
-// Вывод массива в терминал
 Console.WriteLine($"\nВаш массив {x} x {y} x {z}:");
 for(int z1 = 0; z1 < matrix.GetLength(2); z1++)
 {

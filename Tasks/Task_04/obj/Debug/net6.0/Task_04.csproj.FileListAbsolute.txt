@@ -1,0 +1,15 @@
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\bin\Debug\net6.0\Task_04.exe
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\bin\Debug\net6.0\Task_04.deps.json
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\bin\Debug\net6.0\Task_04.runtimeconfig.json
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\bin\Debug\net6.0\Task_04.dll
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\bin\Debug\net6.0\Task_04.pdb
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\obj\Debug\net6.0\Task_04.csproj.AssemblyReference.cache
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\obj\Debug\net6.0\Task_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\obj\Debug\net6.0\Task_04.AssemblyInfoInputs.cache
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\obj\Debug\net6.0\Task_04.AssemblyInfo.cs
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\obj\Debug\net6.0\Task_04.csproj.CoreCompileInputs.cache
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\obj\Debug\net6.0\Task_04.dll
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\obj\Debug\net6.0\refint\Task_04.dll
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\obj\Debug\net6.0\Task_04.pdb
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\obj\Debug\net6.0\Task_04.genruntimeconfig.cache
+C:\Users\Валера\Desktop\ДЗ 8\Tasks\Task_04\obj\Debug\net6.0\ref\Task_04.dll
